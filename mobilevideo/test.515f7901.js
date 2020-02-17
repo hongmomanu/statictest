@@ -57,4 +57,4 @@ var t,n=arguments[3];!function(n,e){"object"==typeof exports&&"undefined"!=typeo
 },{"./channelFactory":"jitY","./util":"NKbW"}],"HdJB":[function(require,module,exports) {
 "use strict";var i=require("./src/index");console.log("begin"),window.init=i.init;var n=(0,i.init)({uid:1,roomId:"hongmomanu",channel:"agora",role:"teacher",kind:"mobile"});
 },{"./src/index":"H99C"}]},{},["HdJB"], null)
-//# sourceMappingURL=/test.515f7901.map
+//# sourceMappingURL=statictest/mobilevideo/test.515f7901.map
